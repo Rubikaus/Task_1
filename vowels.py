@@ -1,0 +1,7 @@
+sentence = input()
+print("a: ", sentence.lower().count("a"))
+print("e: ", sentence.lower().count("e"))
+print("i: ", sentence.lower().count("i"))
+print("o: ", sentence.lower().count("o"))
+print("u: ", sentence.lower().count("u"))
+print("y: ", sentence.lower().count("y"))
